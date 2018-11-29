@@ -4,3 +4,6 @@ printer
 phone
 watch
 X-ray
+video
+fridge
+machine
