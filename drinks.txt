@@ -1,6 +1,6 @@
 cola
 water
 juice
-milkg
-teat
-drinkj
+milk
+tea
+drink
