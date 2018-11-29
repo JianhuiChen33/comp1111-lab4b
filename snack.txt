@@ -1,3 +1,6 @@
+gum
+chips
+surge
 chocolate
 biscuits
 bread
