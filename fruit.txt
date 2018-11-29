@@ -1,3 +1,6 @@
 apple
 banana
 pear
+orange
+cherry
+pineapple
