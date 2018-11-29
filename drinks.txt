@@ -1,6 +1,9 @@
 cola
 water
 juice
-milk
+beer
 tea
 drink
+juice
+coffee
+soup
