@@ -1,6 +1,6 @@
 callphone
 computer
 printer
-phonee
-watchh
-X-rayy
+phone
+watch
+X-ray
