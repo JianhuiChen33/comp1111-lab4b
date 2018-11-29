@@ -1,6 +1,6 @@
 apple
 banana
 pear
-orangee
-cherryyyyy
-pineappleeeees
+orange
+cherry
+pineapple
